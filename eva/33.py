@@ -70,8 +70,6 @@ solicitudes.agregar("S03", "Atencion odontologica")
 
 print("\n1. LISTA DE SOLICITUDES REGISTRADAS:")
 solicitudes.mostrar()
-
-+
 # 3. Probar la cola (FIFO)
 turnos = Cola()
 
